@@ -1,0 +1,85 @@
+--------------------------------
+------------<NewsFeeds>---------
+http://feeds.bbci.co.uk/news/technology/rss.xml "~BBC: Technology"
+http://feeds.foxnews.com/foxnews/tech "~F.N Technology"
+https://news.ycombinator.com/rss "~Ycombinator"
+https://betanews.com/feed "~BetaNews"
+http://feeds.bbci.co.uk/news/world/rss.xml "~BBC: World"
+http://feeds.washingtonpost.com/rss/world "~WP: World"
+http://feeds.foxnews.com/foxnews/world "~F.N World"
+http://rss.cnn.com/rss/cnn_topstories.rss "~CNN: Breaking News"
+https://www.slamonline.com/feed/ "~Slam Magazine" 
+--------------------------------
+------------<Reddit>------------
+https://www.reddit.com/r/news.rss "~r/News"
+https://www.reddit.com/r/worldnews.rss "~r/WorldNews"
+https://www.reddit.com/r/technology.rss "~r/Technology"
+https://www.reddit.com/r/entertainment.rss "~r/Entertainment"
+https://www.reddit.com/r/distrotube.rss "~r/DistroTube"
+https://www.reddit.com/r/emacs.rss "~r/Emacs"
+https://www.reddit.com/r/doomemacs.rss "~r/DoomEmacs"
+https://www.reddit.com/r/technews.rss "~r/TechNews"
+https://www.reddit.com/r/Bitcoin.rss "~r/Bitcoin"
+https://www.reddit.com/r/privacy.rss "~r/Privacy"
+https://www.reddit.com/r/privacytoolsIO.rss "~r/PrivacyToolsIO"
+https://www.reddit.com/r/monero.rss "~r/Monero"
+https://www.reddit.com/r/nba.rss "~r/Nba"
+https://www.reddit.com/r/linux.rss "~r/Linux"
+https://www.reddit.com/r/archlinux.rss "~r/ArchLinux"
+https://www.reddit.com/r/computerscience.rss "~r/ComputerScience"
+https://www.reddit.com/r/degoogle.rss "~r/DeGoogle"
+--------------------------------
+------------<Youtube>--------- # i'm using this server, because its fast, but if you want high quality, change the server to 'yewtu.be'
+https://yewtu.be/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA "~Brodie Robertson"
+https://yewtu.be/feeds/videos.xml?channel_id=UCngn7SVujlvskHRvRKc1cTw "~BugsWriter"
+https://yewtu.be/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A "~Numberphile"
+https://yewtu.be/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA "~Computerphile"
+https://yewtu.be/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ "~Chris Titus Tech"
+https://yewtu.be/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "~Distrotube"
+https://yewtu.be/feeds/videos.xml?channel_id=UC0ZTPkdxlAKf-V33tqXwi3Q "~Hackersploit"
+https://yewtu.be/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith"
+https://yewtu.be/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "~Mental Outlaw"
+https://yewtu.be/feeds/videos.xml?channel_id=UCTd7Cqj-oAEONRcG53Pg0ew "~Nicholas Bernstein"
+https://yewtu.be/feeds/videos.xml?channel_id=UCtwKon9qMt5YLVgQt1tvJKg "~Objectivity"
+https://yewtu.be/feeds/videos.xml?channel_id=UCSju5G2aFaWMqn-_0YBtq5A "~Standup Maths"
+https://yewtu.be/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg "~Techlore"
+https://yewtu.be/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q "~The Hated One"
+https://yewtu.be/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA "~Veritasium"
+https://yewtu.be/feeds/videos.xml?channel_id=UCtMVHI3AJD4Qk4hcbZnI9ZQ "~SomeOrdinaryGamers"
+--------------------------------
+------------<LinuxNews>---------
+https://www.linuxjournal.com/news/feed
+https://distrowatch.com/news/dw.xml "~DistroWatch"
+https://linuxhint.com/feed/ "~LinxHint" 
+https://www.networkworld.com/category/linux/index.rss
+https://www.computerworld.com/index.rss
+https://itsfoss.com/feed/
+--------------------------------
+------------<ArchLinux>---------
+https://archlinux.org/feeds/news/
+--------------------------------
+------------<Blogs>-------------
+https://lukesmith.xyz/rss.xml "~Luke Smith Blog"
+https://notrelated.xyz/rss
+http://notrelated.libsyn.com/rss "~Luke Smith Podcast"
+https://based.cooking/atom.xml "~Based.Cooking"
+https://hackaday.com/blog/feed
+--------------------------------
+------------<Podcasts>-------------
+https://destinationlinux.org/feed/mp3
+https://tuxdigital.com/feed/thisweekinlinux-mp3
+https://latenightlinux.com/feed/mp3
+https://smlr.us/?feed=smlr-ogg
+http://www.thelinuxlink.net/tllts/tllts.rss
+https://feeds.fireside.fm/chooselinux/rss
+https://www.linux4everyone.com/rss
+https://selfhosted.show/rss
+https://sudo.show/rss
+https://www.arresteddevops.com/episode/index.xml
+https://hackersploit.org/feed/podcast/
+https://feeds.simplecast.com/PxEW_ipK
+----------------------------------
+------------<Twitter>-------------
+https://nitter.net/HackerSploit/rss "~@Hackersploit - Twitter"
+https://nitter.net/BrodieOnLinux/rss "~@BrodieOnLinux - Twitter"
+https://nitter.net/Snowden/rss "~@Edward Snowden - Twitter"
