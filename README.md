@@ -6,6 +6,10 @@ This is my Arch Linux rice; keep in mind that not all of the packages and progra
 ![screenshot_1](https://github.com/azgeekthe3rd/Azgeek-Dots/assets/44058889/d4fcaa3f-5732-45e8-a944-ea5161192e07)
 
 
+
+![Uploading screenshot_7.png…]()
+
+
 ![screenshot_2](https://github.com/azgeekthe3rd/Azgeek-Dots/assets/44058889/8537bcc7-960b-4151-8354-2167d10e74dd)
 
 ![screenshot_3](https://github.com/azgeekthe3rd/Azgeek-Dots/assets/44058889/2b4cf2ac-e3e8-4e70-92e8-d630c4792583)
